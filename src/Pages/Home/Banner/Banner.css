@@ -1,0 +1,14 @@
+/* .bg-image{
+    background-image: url('../../../assets/hero-creative-agenc1.jpg');
+    width: 100%;
+} */
+
+h1 {
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: -webkit-linear-gradient(-45deg, #fc00c7 0, #1c4efd 54%, #00aded 100%);
+}
+
+button {
+  background: linear-gradient(135deg, #fc00c7 0, #1c4efd 54%, #00aded 100%);
+}
