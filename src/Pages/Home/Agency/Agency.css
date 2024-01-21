@@ -1,0 +1,20 @@
+h3 {
+    font-size: 40px;
+    line-height: 52px;
+    font-family: Poppins,sans-serif;
+}
+
+.content {
+    z-index: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem/* 16px */;
+    padding: 1rem/* 16px */;
+}
+
+.des{
+    color: #ff3870;
+    letter-spacing: .5px;
+    font-size: 16px;
+    margin: 0 0 15px;
+}
